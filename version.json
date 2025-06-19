@@ -1,1 +1,8 @@
 
+{
+    "version": "1.0.0",
+    "update_required": true,
+    "changelog": "Yeni grafikler eklendi, hatalar giderildi.",
+    "ios_url": "https://apps.apple.com/app/diabetlog",
+    "android_url": "https://play.google.com/store/apps/details?id=com.diabetlog.app"
+  }
