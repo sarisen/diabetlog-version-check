@@ -1,8 +1,7 @@
-
-{
-    "version": "1.0.9",
-    "update_required": true,
-    "changelog": "Kritik Hatalar Düzeltildi",
-    "ios_url": "https://apps.apple.com/app/diabetlog-kan-sekeri-takibi/id6738663077",
-    "android_url": "https://play.google.com/store/apps/details?id=com.diabetlog.app"
-  }
+  {                                                                                                                                                                                                                                                                                
+    "version": "1.2.4",                                                                                                                                                                                                                                                            
+    "update_required": true,                                                                                                                                                                                                                                                       
+    "changelog": "Yeni paywall tasarımı ve iyileştirmeler",                                                                                                                                                                                                                        
+    "ios_url": "https://apps.apple.com/app/diabetlog-kan-sekeri-takibi/id6738663077",                                                                                                                                                                                              
+    "android_url": "https://play.google.com/store/apps/details?id=com.diabetlog.app"                                                                                                                                                                                               
+  }     
